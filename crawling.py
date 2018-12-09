@@ -3,7 +3,7 @@
 # pip3 install bs4
 
 from selenium import webdriver as wd
-from bs4 import BeautifulSoup as bs
+#from bs4 import BeautifulSoup as bs
 from openpyxl import Workbook
 import time
 
